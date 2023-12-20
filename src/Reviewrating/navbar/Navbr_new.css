@@ -1,0 +1,10 @@
+.top{
+    height: 12vh;
+    width: 100%;
+    border: 1px solid black;
+    
+}
+.input{
+    height: 5vh;
+    width: 10%;
+}
